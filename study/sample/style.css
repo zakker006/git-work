@@ -1,7 +1,9 @@
-#word-red {
-  color: red;
+section {
+  width: 300px;
+  height: 300px;
+  border: 2px solid #fa5893;
 }
 
-.red-word {
-  color: red;
+span {
+  color: #fa5893;
 }
